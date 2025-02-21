@@ -20,6 +20,11 @@ python3 -m venv .venv
 source .venv/bin/activate
 ```
 
+#### **Install depdendencies**
+```sh
+pip install -r requirements.txt
+```
+
 ### Run the app
 ```sh
 python3 app.py
